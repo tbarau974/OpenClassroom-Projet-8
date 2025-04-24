@@ -1,4 +1,11 @@
+Projet n°8
+----------
+
 Analysez l’évolution des prix de l’immobilier avec Python
+
+==========================================================
+
+Objectifs pédagogiques
 
 ---------------------
 
